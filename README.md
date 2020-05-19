@@ -9,11 +9,11 @@
 
 ### Key Features of this dashboard:  
 
-... 1.Top N highest value
+1.Top N highest value
 
-... 2.Self-service views with drop-down lists
+2.Self-service views with drop-down lists
 
-... 3.Time series data analysis
+3.Time series data analysis
 
 
 2.World Covid 19
@@ -27,12 +27,12 @@
   
 ### Key Features of this dashboard:
   
-...1.Dynamic world map
+1.Dynamic world map
   
-...2.Selective filters
+2.Selective filters
   
-...3.Top 15 Countries confirmed vs death histogram
+3.Top 15 Countries confirmed vs death histogram
   
-...4.Time series data curve
+4.Time series data curve
   
-...5.Ascending and descending ranking
+5.Ascending and descending ranking
