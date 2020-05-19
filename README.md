@@ -3,7 +3,7 @@
 1.E-Commerce Exploratory Data Analysis and Visulization
 ---
 
-* [Tableau story here](https://public.tableau.com/profile/hui.huang5946#!/vizhome/E-commerceExploratoryDataAnalysis/Story1)
+* [Tableau story/Dashboard here](https://public.tableau.com/profile/hui.huang5946#!/vizhome/E-commerceExploratoryDataAnalysis/Story1)
 
 * [Dataset](https://www.kaggle.com/carrie1/ecommerce-data)
 
@@ -19,7 +19,7 @@
 2.World Covid 19
 ---
 
-* [Tableau Story Here](https://public.tableau.com/profile/hui.huang5946#!/vizhome/world_covid_19/Dashboard1)
+* [Tableau Dashboard Here](https://public.tableau.com/profile/hui.huang5946#!/vizhome/world_covid_19/Dashboard1)
 
 * [Original Dateset](https://github.com/CSSEGISandData/COVID-19)
 
