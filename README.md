@@ -7,7 +7,7 @@
 
 * [Dataset](https://www.kaggle.com/carrie1/ecommerce-data)
 
-Key Features of this dashboard:  
+### Key Features of this dashboard:  
 
 1.Top N highest value
 
@@ -23,9 +23,9 @@ Key Features of this dashboard:
 
 * [Original Dateset](https://github.com/CSSEGISandData/COVID-19)
 
-  I did some basic data wrangling Please refer [Covid_19 data preparation notebook]
+  I did some basic data wrangling Please refer [Covid_19 data preparation notebook](https://github.com/hhuang728/Tableau-Dashboards/blob/master/Covid_19%20data%20preparation.ipynb)
   
-Key Features of this notebook:
+### Key Features of this notebook:
   
   1.Dynamic world map
   
