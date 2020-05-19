@@ -1,13 +1,13 @@
 # Tableau-Dashboards
 
-1.E-Commerce Exploratory Data Analysis and Visulization
+1. E-Commerce Exploratory Data Analysis and Visulization
 ---
 
 * [Tableau story here](https://public.tableau.com/profile/hui.huang5946#!/vizhome/E-commerceExploratoryDataAnalysis/Story1)
 
 * [Dataset](https://www.kaggle.com/carrie1/ecommerce-data)
 
-Key Features of this dashboard:
+Key Features of this dashboard:  
 
 1.Top N highest value
 
@@ -25,7 +25,7 @@ Key Features of this dashboard:
 
   I did some basic data wrangling Please refer [Covid_19 data preparation notebook]
   
-  Key Features of this notebook
+Key Features of this notebook:
   
   1.Dynamic world map
   
