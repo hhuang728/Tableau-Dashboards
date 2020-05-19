@@ -9,11 +9,11 @@
 
 ### Key Features of this dashboard:  
 
-...1.Top N highest value
+... 1.Top N highest value
 
-...2.Self-service views with drop-down lists
+... 2.Self-service views with drop-down lists
 
-...3.Time series data analysis
+... 3.Time series data analysis
 
 
 2.World Covid 19
