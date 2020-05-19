@@ -8,8 +8,11 @@
 * [Dataset](https://www.kaggle.com/carrie1/ecommerce-data)
 
 Key Features of this dashboard:
+
 1.Top N highest value
+
 2.Self-service views with drop-down lists
+
 3.Time series data analysis
 
 
@@ -19,11 +22,17 @@ Key Features of this dashboard:
 * [Tableau Story Here](https://public.tableau.com/profile/hui.huang5946#!/vizhome/world_covid_19/Dashboard1)
 
 * [Original Dateset](https://github.com/CSSEGISandData/COVID-19)
+
   I did some basic data wrangling Please refer [Covid_19 data preparation notebook]
   
   Key Features of this notebook
+  
   1.Dynamic world map
+  
   2.Selective filters
+  
   3.Top 15 Countries confirmed vs death histogram
+  
   4.Time series data curve
+  
   5.Ascending and descending ranking
