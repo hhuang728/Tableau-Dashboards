@@ -52,6 +52,6 @@
 
 3.Transform attrition from dimesion to measure
 
-4. Top N highest value
+4.Top N highest value
 
-5. different visualization(scatter plot,treemaps,areachart,barchart) styles
+5.Different visualization(scatter plot,treemaps,areachart,barchart) styles to present diffrent KPI.
