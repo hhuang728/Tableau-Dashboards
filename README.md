@@ -38,7 +38,7 @@
 5.Ascending and descending ranking
 
 
-3.HR Department Employee Attrition dashbpard
+3.HR Department Employee Attrition dashboard
 ---
 
 * [Tableau Dashboard here](https://public.tableau.com/profile/hui.huang5946#!/vizhome/HRdepartmentemployeeattritiondashboard/Dashboard1)
