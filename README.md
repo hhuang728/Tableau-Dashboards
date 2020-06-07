@@ -36,3 +36,22 @@
 4.Time series data curve
   
 5.Ascending and descending ranking
+
+
+3.HR Department Employee Attrition dashbpard
+---
+
+* [Tableau Dashboard here](https://public.tableau.com/profile/hui.huang5946#!/vizhome/HRdepartmentemployeeattritiondashboard/Dashboard1)
+
+
+### Key Features of this dashboard:  
+
+1.Filter for different department with whole dashboard
+
+2.KPIs for hr department attrition analysis 
+
+3.Transform attrition from dimesion to measure
+
+4. Top N highest value
+
+5. different visualization(scatter plot,treemaps,areachart,barchart) styles
